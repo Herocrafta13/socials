@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my socials page! Here's where you'll find links to all my socials! :D
 
-You can use the [editor on GitHub](https://github.com/Herocrafta13/socials/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Youtube](https://www.youtube.com/channel/UCVZL-8odD6PT4SdYjSDuE_A)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Discord](https://discord.gg/RW9ugpT)
+
+[https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg](src)
 
 ### Markdown
 
