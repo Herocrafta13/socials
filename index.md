@@ -1,10 +1,9 @@
 ## Welcome to my socials page! Here's where you'll find links to all my socials! :D
 
-[Youtube](https://www.youtube.com/channel/UCVZL-8odD6PT4SdYjSDuE_A)
+![](https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png | width=100) [Youtube](https://www.youtube.com/channel/UCVZL-8odD6PT4SdYjSDuE_A)
 
 [Discord](https://discord.gg/RW9ugpT)
 
-[/Wiki/images/path/to/image.ext|ALT TEXT]
 
 
 
