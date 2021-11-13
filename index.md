@@ -4,7 +4,9 @@
 
 [Discord](https://discord.gg/RW9ugpT)
 
-[https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg](src)
+[/Wiki/images/path/to/image.ext|ALT TEXT]
+
+
 
 ### Markdown
 
