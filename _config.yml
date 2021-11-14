@@ -1,8 +1,5 @@
-  <header>
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
-
-	{% if site.logo %}
-	  <img src="{{site.logo}}" alt="Logo"></img>
-    {% endif %}
-
-	<p>{{ site.description | default: site.github.project_tagline }}</p>
+title: Socials!
+logo: /assets/img/logo.png
+description:
+show_downloads: false
+google_analytics:
